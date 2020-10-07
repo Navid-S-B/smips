@@ -3,6 +3,8 @@ This project compiles and translates pre-processed MIPS code (hexcode), which ex
 
 The source code does this by storing the hexcodes into an abstract datatype which allows for tracking the registers used in memory and translating the commands given in the spec into the C equivalents.
 
+Refer to the specification for more information.
+
 ## How to run the code
 Compile smips.c onto your local machine and then run it like this in shell.
 
